@@ -1,0 +1,56 @@
+.registration-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    background-color: #f4eae9; /* Light pink background color */
+  }
+
+  .registration-form h1 {
+    text-align: center; /* Center only the h1 heading */
+    color: red; /* Set the text color to red */
+  text-decoration: underline; /* Underline the text */
+  }
+  
+  .registration-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .registration-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .registration-form button {
+    width: 50%; /* Set the button to 50% width */
+    margin: 0 auto; /* Center the button horizontally */
+    display: block; /* Make the button a block-level element */
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .registration-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .form-details {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f6f6; /* Light pink background color */
+  }
+  
